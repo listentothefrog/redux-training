@@ -4,9 +4,10 @@ The goal of this project is to learn Redux and React and documenting it. By the 
 
 Todo list:
 
-- [ ] Set up Redux and React 
+- [x] Install Redux-toolkit and Redux
+- [ ] Set up Redux and React
 - [ ] Learn about Redux store
-- [ ] Learn about Redux actions 
+- [ ] Learn about Redux actions
 - [ ] Learn about Redux reducers
 
 Technologies:
