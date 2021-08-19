@@ -12,6 +12,7 @@ Todo list:
 
 Technologies:
 
-`Redux-toolkit`
-`React`
-`TypeScript`
+* `Redux-toolkit`
+* `Redux`
+* `React`
+* `TypeScript`
