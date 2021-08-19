@@ -5,14 +5,14 @@ The goal of this project is to learn Redux and React and documenting it. By the 
 Todo list:
 
 - [x] Install Redux-toolkit and Redux
-- [ ] Set up Redux and React
+- [x] Set up Redux and React-Redux
 - [ ] Learn about Redux store
 - [ ] Learn about Redux actions
 - [ ] Learn about Redux reducers
 
 Technologies:
 
-* `Redux-toolkit`
-* `Redux`
-* `React`
-* `TypeScript`
+- `Redux-toolkit`
+- `Redux`
+- `React`
+- `TypeScript`
